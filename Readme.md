@@ -13,3 +13,4 @@ The intercept is the model's bias term.
 Conclusion:
 The practical implementation of Logistic Regression using Scikit-Learn showcases how to prepare data, train a model, evaluate its performance, and interpret the results. Understanding these steps is crucial for applying Logistic Regression to real-world problems effectively.
 
+READ MORE --> https://medium.com/@skrahemurrahaman/logistic-regression-interpretation-output-and-coefficients-d9bbe18e135c
